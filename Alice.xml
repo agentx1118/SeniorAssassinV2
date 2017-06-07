@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Alice</comment>
+<entry key="is playing">true</entry>
+<entry key="team">wonderland</entry>
+<entry key="name">Alice</entry>
+<entry key="team ID">1</entry>
+<entry key="rank">King</entry>
+<entry key="id">1</entry>
+</properties>
